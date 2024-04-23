@@ -1,1 +1,1 @@
-# Script for Marathi BCI Project
+# Scripts for Marathi BCI Project
