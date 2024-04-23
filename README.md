@@ -1,1 +1,1 @@
-# Scripts for Marathi BCI Project
+# Machine Learning-Based Classification of Marathi Words for Brain-Computer Interface Applications
